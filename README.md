@@ -87,12 +87,13 @@ joblib
 
 ---
 
-##Project Structure
+##  Project Structure
 
-├── app.py                   # Streamlit web application
-├── train_model.py           # Script to train/export the ML model
-├── breast_cancer_model.pkl  # Saved machine learning model file
-├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation
+- **app.py:** Main application file for Streamlit interface.
+- **train_model.py:** Python script to load data, train, and export your ML model.
+- **breast_cancer_model.pkl:** Generated file; your trained and serialized machine learning model.
+- **requirements.txt:** List of package dependencies for easy installation.
+- **README.md:** Documentation and instructions for the project.
+
 
 
