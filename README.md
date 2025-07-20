@@ -87,11 +87,12 @@ joblib
 
 ---
 
-## 📁 Project Structure
+##Project Structure
 
-├── app.py # Streamlit application
-├── train_model.py # Script to train/export the ML model
-├── breast_cancer_model.pkl # Saved model file
-├── requirements.txt # Python dependencies
-└── README.md
+├── app.py                   # Streamlit web application
+├── train_model.py           # Script to train/export the ML model
+├── breast_cancer_model.pkl  # Saved machine learning model file
+├── requirements.txt         # Python dependencies
+└── README.md                # Project documentation
+
 
