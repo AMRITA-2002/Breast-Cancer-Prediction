@@ -78,11 +78,11 @@ The app is intended as a proof of concept for accessible, explainable AI in heal
 ## 📦 Requirements
 
 To run locally, make sure you have:
-streamlit
-scikit-learn
-pandas
-matplotlib
-joblib
+streamlit, 
+scikit-learn, 
+pandas, 
+matplotlib, 
+joblib.
 
 
 ---
